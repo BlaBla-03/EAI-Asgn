@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8920E6-3122-43F1-B9B5-A66A11197978}|PrimeValueApp\\PrimeValueApp.csproj|c:\\users\\ngjia\\onedrive\\documents\\eai asgn\\primevalueapp\\primevalueapp\\viewordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D8920E6-3122-43F1-B9B5-A66A11197978}|PrimeValueApp\\PrimeValueApp.csproj|solutionrelative:primevalueapp\\viewordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8920E6-3122-43F1-B9B5-A66A11197978}|PrimeValueApp\\PrimeValueApp.csproj|c:\\users\\ngjia\\onedrive\\documents\\eai asgn\\primevalueapp\\primevalueapp\\pickpackorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D8920E6-3122-43F1-B9B5-A66A11197978}|PrimeValueApp\\PrimeValueApp.csproj|solutionrelative:primevalueapp\\pickpackorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8920E6-3122-43F1-B9B5-A66A11197978}|PrimeValueApp\\PrimeValueApp.csproj|c:\\users\\ngjia\\onedrive\\documents\\eai asgn\\primevalueapp\\primevalueapp\\processpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D8920E6-3122-43F1-B9B5-A66A11197978}|PrimeValueApp\\PrimeValueApp.csproj|solutionrelative:primevalueapp\\processpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8920E6-3122-43F1-B9B5-A66A11197978}|PrimeValueApp\\PrimeValueApp.csproj|c:\\users\\ngjia\\onedrive\\documents\\eai asgn\\primevalueapp\\primevalueapp\\paymentgatewayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D8920E6-3122-43F1-B9B5-A66A11197978}|PrimeValueApp\\PrimeValueApp.csproj|solutionrelative:primevalueapp\\paymentgatewayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8920E6-3122-43F1-B9B5-A66A11197978}|PrimeValueApp\\PrimeValueApp.csproj|c:\\users\\ngjia\\onedrive\\documents\\eai asgn\\primevalueapp\\primevalueapp\\shipmentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D8920E6-3122-43F1-B9B5-A66A11197978}|PrimeValueApp\\PrimeValueApp.csproj|solutionrelative:primevalueapp\\shipmentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8920E6-3122-43F1-B9B5-A66A11197978}|PrimeValueApp\\PrimeValueApp.csproj|C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\primevalueapp\\setshipmentdeliveredform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D8920E6-3122-43F1-B9B5-A66A11197978}|PrimeValueApp\\PrimeValueApp.csproj|solutionrelative:primevalueapp\\setshipmentdeliveredform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 309,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewOrdersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\PrimeValueApp\\ViewOrdersForm.cs",
+              "RelativeDocumentMoniker": "PrimeValueApp\\ViewOrdersForm.cs",
+              "ToolTip": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\PrimeValueApp\\ViewOrdersForm.cs [Design]",
+              "RelativeToolTip": "PrimeValueApp\\ViewOrdersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:56:55.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PickPackOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\PrimeValueApp\\PickPackOrderForm.cs",
+              "RelativeDocumentMoniker": "PrimeValueApp\\PickPackOrderForm.cs",
+              "ToolTip": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\PrimeValueApp\\PickPackOrderForm.cs [Design]",
+              "RelativeToolTip": "PrimeValueApp\\PickPackOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:33:10.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessPaymentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\PrimeValueApp\\ProcessPaymentForm.cs",
+              "RelativeDocumentMoniker": "PrimeValueApp\\ProcessPaymentForm.cs",
+              "ToolTip": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\PrimeValueApp\\ProcessPaymentForm.cs [Design]",
+              "RelativeToolTip": "PrimeValueApp\\ProcessPaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:28:53.323Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentGatewayForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\PrimeValueApp\\PaymentGatewayForm.cs",
+              "RelativeDocumentMoniker": "PrimeValueApp\\PaymentGatewayForm.cs",
+              "ToolTip": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\PrimeValueApp\\PaymentGatewayForm.cs [Design]",
+              "RelativeToolTip": "PrimeValueApp\\PaymentGatewayForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:28:50.977Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShipmentManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\PrimeValueApp\\ShipmentManagementForm.cs",
+              "RelativeDocumentMoniker": "PrimeValueApp\\ShipmentManagementForm.cs",
+              "ToolTip": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\PrimeValueApp\\ShipmentManagementForm.cs [Design]",
+              "RelativeToolTip": "PrimeValueApp\\ShipmentManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:58:37.904Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SetShipmentDeliveredForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\PrimeValueApp\\SetShipmentDeliveredForm.cs",
+              "RelativeDocumentMoniker": "PrimeValueApp\\SetShipmentDeliveredForm.cs",
+              "ToolTip": "C:\\Users\\ngjia\\OneDrive\\Documents\\EAI Asgn\\PrimeValueApp\\PrimeValueApp\\SetShipmentDeliveredForm.cs [Design]",
+              "RelativeToolTip": "PrimeValueApp\\SetShipmentDeliveredForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:58:36.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
